@@ -44,7 +44,7 @@ This elegant task management tool helps you organize your daily activities with 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/fileyourfacts-todo-app.git
+   git clone https://github.com/l3blonde/fileyourfacts-todo-app
    cd fileyourfacts-todo-app
 
 ## Author
